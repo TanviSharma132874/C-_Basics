@@ -1,0 +1,8 @@
+# C++ executables
+*.exe
+
+# VS Code local configuration
+.vscode/
+
+# Temporary files
+*.tmp
